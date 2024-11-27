@@ -3,7 +3,7 @@
 I'm currently majoring in Computer Science with a passion for software development and learning new technologies. I'm especially interested in Java, C, and CyberSecurity.
 
 - 🌱 **Currently Learning:** Java, C & C++
-- 💻 **Skills:** Java, C, Python, Git, GitHub
+- 💻 **Skills:** Java, C, Python, SQL, Git, GitHub
 - 🎯 **Looking to Improve:** Data Structures, Algorithms, and Systems Programming
 
 ## 📫 Connect With Me
